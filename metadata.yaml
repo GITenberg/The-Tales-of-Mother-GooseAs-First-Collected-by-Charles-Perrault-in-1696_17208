@@ -46,6 +46,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Perrault
     - http://fr.wikipedia.org/wiki/Charles_Perrault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17208#The-Tales-of-Mother-GooseAs-First-Collected-by-Charles-Perrault-in-1696
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2005-12-03'
 gutenberg_type: Text
