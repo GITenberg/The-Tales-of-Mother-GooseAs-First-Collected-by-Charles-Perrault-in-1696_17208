@@ -1,0 +1,70 @@
+_repo: The-Tales-of-Mother-GooseAs-First-Collected-by-Charles-Perrault-in-1696_17208
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: O'Shea, M. V. (Michael Vincent)
+    alias: O'Shea, Michael Vincent
+    birthdate: 1866
+    deathdate: 1932
+    gutenberg_agent_id: '7221'
+    url: http://www.gutenberg.org/2009/agents/7221
+  illustrators:
+  - agent_name: Munro, D. J.
+    gutenberg_agent_id: '7223'
+    url: http://www.gutenberg.org/2009/agents/7223
+  - agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Welsh, Charles
+    aliases:
+    - Gael, Shane Na
+    - McIvor, Ivor Ben
+    birthdate: 1850
+    deathdate: 1914
+    gutenberg_agent_id: '7222'
+    url: http://www.gutenberg.org/2009/agents/7222
+covers:
+- cover_type: archival
+  image_path: 17208-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- France'
+- !lcc 'PQ'
+- !lcsh 'Children''s stories, French -- Translations into English'
+- !lcsh 'Fairy tales'
+tableOfContents: Cinderella, or the Little Glass Slipper -- The Sleeping Beauty in
+  the Wood -- Little Thumb -- The Master Cat, or Puss in Boots -- Riquet of the Tuft
+  -- Blue Beard -- The Fairy -- Little Red Riding-hood.
+title: 'The Tales of Mother Goose
+
+  As First Collected by Charles Perrault in 1696'
+url: http://www.gutenberg.org/ebooks/17208
